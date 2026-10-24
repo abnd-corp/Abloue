@@ -6,7 +6,7 @@ Application web de visualisation et gestion de données géographiques par dépa
 
 ## 🌐 Démo en ligne
 
-[https://hugolagouardat.github.io/Abloue/abloue.html](https://hugolagouardat.github.io/Abloue/abloue.html)
+[https://abnd-corp.github.io/Abloue/abloue.html](https://abnd-corp.github.io/Abloue/abloue.html)
 
 ## 📄 Licences
 
@@ -82,7 +82,7 @@ La carte interactive de France utilisée dans cette application est **Abcarte**,
 - **Licence** : [Creative Commons Attribution 4.0 International (CC BY 4.0)](http://creativecommons.org/licenses/by/4.0/)
 - **Modifications** : Ajout des numéros de département pour créer Abcarte
 
-Dépôt Abcarte : [github.com/Abend-core/Abcarte](https://github.com/Abend-core/Abcarte)
+Dépôt Abcarte : [github.com/abnd-corp/Abcarte](https://github.com/abnd-corp/Abcarte)
 
 ## 🛠️ Technologies utilisées
 
@@ -99,5 +99,5 @@ Dépôt Abcarte : [github.com/Abend-core/Abcarte](https://github.com/Abend-core/
 
 ## 🙏 Remerciements
 
-- [Abend-core](https://github.com/Abend-core) pour Abcarte
+- [abnd-corp](https://github.com/abnd-corp) pour Abcarte
 - [Régis Enguehard](https://github.com/regisenguehard) pour la carte SVG de France
